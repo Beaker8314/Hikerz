@@ -39,7 +39,7 @@ p {
   padding: 0 0 4.5rem;
 }
 .navbar-brand{
-    font-family: 'Vibur', cursive;
+    font-family: "Acme", cursive;
     font-size: 2.5rem;
     font-weight: bold;
 }
@@ -48,7 +48,7 @@ p {
 }
 .nav-link{
   color: rgb(0,0,0);
-  font-family: "Vibur", sans-serif;
+  font-family: "Acme", sans-serif;
   font-size: 2.2rem;
   font-weight: 300;
 }
